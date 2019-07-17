@@ -13,7 +13,7 @@ $apiInstance = new Swagger\Client\Api\ScanApi(
     new GuzzleHttp\Client(),
     $config
 );
-$input_file = "/path/to/file.txt"; // \SplFileObject | Input file to perform the operation on.
+$input_file = "C:\\temp\\invoice_diag28.png"; // \SplFileObject | Input file to perform the operation on.
 
 try {
     $result = $apiInstance->scanFile($input_file);
