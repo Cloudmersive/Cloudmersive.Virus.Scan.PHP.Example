@@ -1,0 +1,12 @@
+{
+    "name": "braga/cloudmersive.virus.scan.php.example",
+    "authors": [
+        {
+            "name": "Cloudmersive",
+            "email": "35204726+Cloudmersive@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "cloudmersive/cloudmersive_virusscan_api_client": "^1.4"
+    }
+}
