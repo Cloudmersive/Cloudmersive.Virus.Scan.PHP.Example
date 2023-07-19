@@ -3,7 +3,7 @@ require_once(__DIR__ . '/vendor/autoload.php');
 require_once(__DIR__ . '/vendor/cloudmersive/cloudmersive_virusscan_api_client/vendor/autoload.php');
 
 // Configure API key authorization: Apikey
-$config = Swagger\Client\Configuration::getDefaultConfiguration()->setApiKey('Apikey', 'f199b121-4d0d-495c-a6c2-44b83f12dce2');
+$config = Swagger\Client\Configuration::getDefaultConfiguration()->setApiKey('Apikey', 'YOUR-API-KEY');
 
 
 
